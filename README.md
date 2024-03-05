@@ -1,1 +1,3 @@
-# Data-Science-Job-Salaries---Dashboard
+# Data Science Job Salaries-Dashboard
+### Description :
+Welcome to the "Data Science Job Salaries" dashboard GitHub repository! This repository houses an insightful dashboard created with Tableau, offering a comprehensive analysis of data science job salaries across different industries, locations, and experience levels. Dive into interactive visualizations, explore salary trends, and gain valuable insights to inform your career decisions. With customizable filters and a user-friendly interface, this dashboard provides an intuitive platform for exploring and understanding salary data within the data science field. Whether you're a job seeker, recruiter, or industry analyst, this dashboard serves as a valuable tool for understanding the dynamics of data science job salaries.
